@@ -26,3 +26,4 @@ export default function ShirtCard(shirt:Shirt) {
 }
 
 // https://stackoverflow.com/questions/47427056/how-to-replace-on-div-with-another-on-hover-css-only
+// https://chakra-ui.com/docs/styled-system/style-props#pseudo

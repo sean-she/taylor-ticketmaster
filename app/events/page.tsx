@@ -54,8 +54,8 @@ export default function EventsPage() {
                             <MenuItem onClick={() => setDateFilter("Tuesday")}>Tuesday</MenuItem>
                             <MenuItem onClick={() => setDateFilter("Wednesday")}>Wednesday</MenuItem>
                             <MenuItem onClick={() => setDateFilter("Thursday")}>Thursday</MenuItem>
-                            <MenuItem onClick={() => setDateFilter("Saturday")}>Friday</MenuItem>
-                            <MenuItem onClick={() => setDateFilter("Sunday")}>Saturday</MenuItem>
+                            <MenuItem onClick={() => setDateFilter("Friday")}>Friday</MenuItem>
+                            <MenuItem onClick={() => setDateFilter("Saturday")}>Saturday</MenuItem>
                         </MenuList>
                     </Menu>
                     <Spacer />
