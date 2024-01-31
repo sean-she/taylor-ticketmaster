@@ -2,9 +2,9 @@ import { Box, Flex, Spacer, Text } from '@chakra-ui/react'
 import React from 'react'
 
 interface Show {
-    name: string,
-    date: string,
-    time: string,
+  name: string,
+  date: string,
+  time: string,
 };
 
 export default function ShowItem(show:Show) {

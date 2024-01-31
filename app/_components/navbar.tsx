@@ -2,7 +2,7 @@ import { Box, Flex, Img, Link, Text } from '@chakra-ui/react'
 
 export default function NavBar() {
   return (
-    <Box minHeight="10vh"display="flex" alignItems="center" justifyContent="space-between" px="55px" py="20px" bg="black" textColor="white">
+    <Box minHeight="10vh" display="flex" alignItems="center" justifyContent="space-between" px="55px" py="20px" bg="black" textColor="white">
       <Flex align="center" justify="center" gap="18px">
         <Link href="/">
           <Img src='/logo.svg' alt='logo'></Img>
